@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/athan_s_maliakkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="athan_s_maliakkal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/professorag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="professorag" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ProfessorAG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="professorag" height="30" width="40" /></a>
 <a href="https://discord.gg/m9QyS57Qg3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m9QyS57Qg3" height="30" width="40" /></a>
 </p>
 
